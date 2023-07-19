@@ -1,0 +1,30 @@
+{
+  "employee": [
+    {
+      "name": "Bhago Rano",
+      "email": "bhagorano@gmail.com",
+      "phone": "9889909000",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Denny Bhayani",
+      "email": "dennybhayani@gmail.com",
+      "phone": "9889909012",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Reny Bhari",
+      "email": "bhurinik@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 4,
+      "name": "nayan bhari",
+      "email": "nayanbhri@in.com",
+      "phone": "9089087670"
+    }
+  ]
+}
